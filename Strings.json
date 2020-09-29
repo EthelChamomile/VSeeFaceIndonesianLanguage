@@ -784,167 +784,200 @@
   "Dot size factor": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Dot size factor/Text",
     "en": "Dot size factor",
-    "ja": "Dot size factor"
+    "ja": "Dot size factor",
+	  "id": "Faktor Ukuran titik"
   },
   "Leap Motion tracking hotkey": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Toggle leap motion hotkey/Label",
     "en": "Leap Motion tracking hotkey",
-    "ja": "Leap Motion tracking hotkey"
+    "ja": "Leap Motion tracking hotkey",
+	  "id": "Hotkey Leap Motion tracking"
   },
   "Button": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Toggle leap motion hotkey/Button/Text",
     "en": "Button",
-    "ja": "Button"
+    "ja": "Button",
+	  "id": "Tombol"
   },
   "Position: Right/left": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position X/Text",
     "en": "Position: Right/left",
-    "ja": "Position: Right/left"
+    "ja": "Position: Right/left",
+	  "id": "Posisi: Kanan/kiri"
   },
   "Position: Height": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position Y/Text",
     "en": "Position: Height",
-    "ja": "Position: Height"
+    "ja": "Position: Height",
+	  "id": "Posisi: Tinggi"
   },
   "Position: Forward": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position Z/Text",
     "en": "Position: Forward",
-    "ja": "Position: Forward"
+    "ja": "Position: Forward",
+	  "id": "Posisi: Depan"
   },
   "Transition time: Up (0-2s)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Transition time in/Text",
     "en": "Transition time: Up (0-2s)",
-    "ja": "Transition time: Up (0-2s)"
+    "ja": "Transition time: Up (0-2s)",
+	  "id": "Waktu transisi: Atas (0-2s)"
   },
   "Detection range (0.3-1m)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Range limit/Toggle/Label",
     "en": "Detection range (0.3-1m)",
-    "ja": "Detection range (0.3-1m)"
+    "ja": "Detection range (0.3-1m)",
+	  "id": "Jarak deteksi (0.3-1m)"
   },
   "Position: Attachment": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position: Attachment/Text",
     "en": "Position: Attachment",
-    "ja": "Position: Attachment"
+    "ja": "Position: Attachment",
+	  "id": "Posisi: Attachment"
   },
   "Flat on desk": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
     "en": "Flat on desk",
-    "ja": "Flat on desk"
+    "ja": "Flat on desk",
+	  "id": "Flat on desk" (???)
   },
   "Rotation X": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Rotation X/Text",
     "en": "Rotation X",
-    "ja": "Rotation X"
+    "ja": "Rotation X",
+	  "id": "Rotasi X"
   },
   "Rotation Y": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Rotation Y/Text",
     "en": "Rotation Y",
-    "ja": "Rotation Y"
+    "ja": "Rotation Y",
+	  "id": "Rotasi Y"
   },
   "Rotation Z": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Rotation Z/Text",
     "en": "Rotation Z",
-    "ja": "Rotation Z"
+    "ja": "Rotation Z",
+	  "id": "Rotasi Z"
   },
   "Transition time: Down (0-2s)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Transition time out/Text",
     "en": "Transition time: Down (0-2s)",
-    "ja": "Transition time: Down (0-2s)"
+    "ja": "Transition time: Down (0-2s)",
+	  "id": "Waktu transisi: Bawah (0-2s)"
   },
   "Hands down delay (0-2s)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Grace time/Text",
     "en": "Hands down delay (0-2s)",
-    "ja": "Hands down delay (0-2s)"
+    "ja": "Hands down delay (0-2s)",
+	  "id": "Delay tangan turun (0-2s)"
   },
   "Hands mode": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Hands mode/Text",
     "en": "Hands mode",
-    "ja": "Hands mode"
+    "ja": "Hands mode",
+	  "id": "Mode Tangan"
   },
   "No swap": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Hands mode/Swap hands/Option:0",
     "en": "No swap",
-    "ja": "No swap"
+    "ja": "No swap",
+	  "id": "Tidak ada penukaran" (???)
   },
   "Desktop Mode": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Hands mode/Mode dropdown/Option:2",
     "en": "Desktop Mode",
-    "ja": "Desktop Mode"
+    "ja": "Desktop Mode",
+	  "id": "Mode Desktop"
   },
   "Focal length (6-135mm)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Field of view/Text",
     "en": "Focal length (6-135mm)",
-    "ja": "Focal length (6-135mm)"
+    "ja": "Focal length (6-135mm)",
+	  "id": "Panjang focal (6-135mm)"
   },
   "Blink sensitivity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Blink sensitivity/Text",
     "en": "Blink sensitivity",
-    "ja": "Blink sensitivity"
+    "ja": "Blink sensitivity",
+	  "id": "Sensitivitas kedipan"
   },
   "Gaze strength": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Gaze strength/Text",
     "en": "Gaze strength",
-    "ja": "Gaze strength"
+    "ja": "Gaze strength",
+	  "id": "Kekuatan tatapan"
   },
   "Gaze sensitivity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Gaze sensitivity/Text",
     "en": "Gaze sensitivity",
-    "ja": "Gaze sensitivity"
+    "ja": "Gaze sensitivity",
+	  "id": "Sensitivitas tatapan"
   },
   "Gaze offset up/down": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Gaze up/down/Text",
     "en": "Gaze offset up/down",
-    "ja": "Gaze offset up/down"
+    "ja": "Gaze offset up/down",
+	  "id": "Offset tatapan atas/bawah"
   },
   "Gaze offset left/right": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Gaze left/right/Text",
     "en": "Gaze offset left/right",
-    "ja": "Gaze offset left/right"
+    "ja": "Gaze offset left/right",
+	  "id": "Offset tatapan kiri/kanan"
   },
   "Eyebrow strength": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Eyebrow strength/Text",
     "en": "Eyebrow strength",
-    "ja": "Eyebrow strength"
+    "ja": "Eyebrow strength",
+	  "id": "Kekuatan alis"
   },
   "Eyebrow sensitivity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Eyebrow sensitivity/Text",
     "en": "Eyebrow sensitivity",
-    "ja": "Eyebrow sensitivity"
+    "ja": "Eyebrow sensitivity",
+	  "id": "Sensitivitas alis"
   },
   "Eyebrow offset": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Eyebrow offset/Text",
     "en": "Eyebrow offset",
-    "ja": "Eyebrow offset"
+    "ja": "Eyebrow offset",
+	  "id": "Offset alis"
   },
   "Lip  sync smoothing": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Viseme smoothing/Text",
     "en": "Lip  sync smoothing",
-    "ja": "Lip  sync smoothing"
+    "ja": "Lip  sync smoothing",
+	  "id": "Permulusan lip sync"
   },
   "Lip sync audio overdrive gain": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Viseme gain/Text",
     "en": "Lip sync audio overdrive gain",
-    "ja": "Lip sync audio overdrive gain"
+    "ja": "Lip sync audio overdrive gain",
+	  "id": "Penguatan overdrive audio lip sync"
   },
   "Mouth sensitivity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Mouth sensitivity/Text",
     "en": "Mouth sensitivity",
-    "ja": "Mouth sensitivity"
+    "ja": "Mouth sensitivity",
+	  "id": "Sensitivitas mulut"
   },
   "Mouth smoothing": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Mouth smoothing/Text",
     "en": "Mouth smoothing",
-    "ja": "Mouth smoothing"
+    "ja": "Mouth smoothing",
+	  "id": "Permulusan mulut"
   },
   "Mouth size reduction": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Mouth reduction/Text",
     "en": "Mouth size reduction",
     "ja": "Mouth size reduction"
+	  "id": "Pengurangan ukuran mulut"
   },
   "Arm angle": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Arm angle/Text",
     "en": "Arm angle",
     "ja": "Arm angle"
+	  "id": "Sudut lengan"
   },
   "Shoulder stiffness": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Shoulder stiffness/Text",
